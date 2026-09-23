@@ -1,3 +1,6 @@
 [submodule "rest-api-mvp-arquitetura-software"]
 	path = rest-api-mvp-arquitetura-software
 	url = https://github.com/jonathan-greco/rest-api-mvp-arquitetura-software.git
+[submodule "frontend-mvp-arquitetura-software"]
+	path = frontend-mvp-arquitetura-software
+	url = https://github.com/jonathan-greco/frontend-mvp-arquitetura-software.git
